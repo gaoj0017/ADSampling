@@ -1,7 +1,5 @@
 # [SIGMOD 2023] High-Dimensional Approximate Nearest Neighbor Search: with Reliable and Efficient Distance Comparison Operations
 
-> Jianyang Gao, Cheng Long
-
 We note that we have included detailed comments of our core algorithms in 
 * `./src/adsampling.h`
 * `./src/hnswlib/hnswalg.h`
